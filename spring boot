@@ -1,4 +1,4 @@
-package com.fazon.simplybytespringboot.controller;
+package com.fazon.newspringboot.controller;
 
 import lombok.*;
 import org.springframework.web.bind.annotation.*;
